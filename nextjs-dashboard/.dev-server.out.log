@@ -1,0 +1,17 @@
+
+> dev
+> next dev --turbopack
+
+   ▲ Next.js 16.0.10 (Turbopack)
+   - Local:         http://localhost:3000
+   - Network:       http://172.31.208.1:3000
+
+ ✓ Starting...
+Creating turbopack project {
+  dir: 'C:\\Users\\ASUS\\Downloads\\projectsiweb\\nextjs-dashboard',
+  testMode: true
+}
+ ✓ Ready in 3.1s
+ ○ Compiling / ...
+ GET / 200 in 750ms (compile: 16ms, render: 735ms)
+ GET / 200 in 1350ms (compile: 29ms, render: 1321ms)
